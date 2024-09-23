@@ -1,7 +1,6 @@
 ## Hi there 👋
-
-<!--
 **manu894/manu894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Boas vindas ao meu perfil :blue_heart
 
 Here are some ideas to get you started:
 
@@ -12,5 +11,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **⚡ Fun fact: ...**
+  Meu nome é manuella olievura 
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+### Você pode entrar em contato comigo :mailbox
+@manuoliveirasouza8@gmail.com 
+
+![descrição do GIF](link GIF do Tenor)
